@@ -19,7 +19,7 @@
       <AdVerifications>
         <Verification>
           <JavaScriptResource>
-            <![CDATA[https://verificationcompany1.com/verification_script1.js]]>
+            <![CDATA[https://jwplayer-sdk-custom-cast.web.app/omid_validation_verification_script_v1.js]]>
           </JavaScriptResource>
         </Verification>
         <Verification>
