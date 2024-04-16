@@ -41,7 +41,7 @@
               <Tracking event="thirdQuartile"><![CDATA[https://example.com/tracking/thirdQuartile]]></Tracking>
               <Tracking event="complete"><![CDATA[https://example.com/tracking/complete]]></Tracking>
             </TrackingEvents>
-            VerificationParameters>
+            <VerificationParameters>
             <![CDATA[ parameter1=value1&parameter2=value2&parameter3=value3 ]]>
             </VerificationParameters>
             <Duration>00:00:16</Duration>
