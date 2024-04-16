@@ -26,6 +26,9 @@
           <JavaScriptResource>
             <![CDATA[https://verificationcompany.com/untrusted.js]]>
           </JavaScriptResource>
+          <VerificationParameters>
+            <![CDATA[ parameter1=value1&parameter2=value2&parameter3=value3 ]]>
+          </VerificationParameters>
         </Verification>
       </AdVerifications>
       <Advertiser>IAB Sample Company</Advertiser>
@@ -41,9 +44,6 @@
               <Tracking event="thirdQuartile"><![CDATA[https://example.com/tracking/thirdQuartile]]></Tracking>
               <Tracking event="complete"><![CDATA[https://example.com/tracking/complete]]></Tracking>
             </TrackingEvents>
-            <VerificationParameters>
-            <![CDATA[ parameter1=value1&parameter2=value2&parameter3=value3 ]]>
-            </VerificationParameters>
             <Duration>00:00:16</Duration>
             <MediaFiles>
               <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="H.264">
