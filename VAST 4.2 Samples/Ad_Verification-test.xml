@@ -21,14 +21,14 @@
           <JavaScriptResource>
             <![CDATA[https://jwplayer-sdk-custom-cast.web.app/omid_validation_verification_script_v1.js]]>
           </JavaScriptResource>
+          <VerificationParameters>
+            <![CDATA[ parameter1=value1&parameter2=value2&parameter3=value3 ]]>
+          </VerificationParameters>
         </Verification>
         <Verification>
           <JavaScriptResource>
             <![CDATA[https://verificationcompany.com/untrusted.js]]>
           </JavaScriptResource>
-          <VerificationParameters>
-            <![CDATA[ parameter1=value1&parameter2=value2&parameter3=value3 ]]>
-          </VerificationParameters>
         </Verification>
       </AdVerifications>
       <Advertiser>IAB Sample Company</Advertiser>
