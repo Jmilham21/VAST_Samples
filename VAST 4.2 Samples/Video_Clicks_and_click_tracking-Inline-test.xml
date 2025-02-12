@@ -42,7 +42,7 @@
             </MediaFiles>
             <VideoClicks>
               <ClickTracking>
-                <![CDATA[http://myTrackingURL/clickTracking]]>
+                <![CDATA[https://joemilham.com/]]>
               </ClickTracking>
               <ClickThrough id="blog">
                 <![CDATA[https://iabtechlab.com]]>
