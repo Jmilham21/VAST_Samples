@@ -22,9 +22,9 @@
                 <![CDATA[https://iabtechlab.com]]>
               </CompanionClickThrough>
             </Companion>
-            <Companion id="12345" width="300" height="100" assetWidth="300" assetHeight="100" expandedWidth="300" expandedHeight="100" adSlotId="12345">
+            <Companion id="1232" width="100" height="150" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250" adSlotId="3214" pxratio="1400">
               <StaticResource creativeType="image/png">
-                <![CDATA[https://jwplayer-sdk-custom-cast.web.app/300x100.png]]>
+                <![CDATA[https://www.iab.com/wp-content/uploads/2014/09/iab-tech-lab-6-644x290.png]]>
               </StaticResource>
               <CompanionClickThrough>
                 <![CDATA[https://iabtechlab.com]]>
