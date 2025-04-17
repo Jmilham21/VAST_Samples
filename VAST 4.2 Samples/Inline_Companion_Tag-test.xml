@@ -22,6 +22,14 @@
                 <![CDATA[https://iabtechlab.com]]>
               </CompanionClickThrough>
             </Companion>
+            <Companion id="12345" width="300" height="100" assetWidth="300" assetHeight="100" expandedWidth="300" expandedHeight="100" adSlotId="12345">
+              <StaticResource creativeType="image/png">
+                <![CDATA[https://jwplayer-sdk-custom-cast.web.app/300x100.png]]>
+              </StaticResource>
+              <CompanionClickThrough>
+                <![CDATA[https://iabtechlab.com]]>
+              </CompanionClickThrough>
+            </Companion>
           </CompanionAds>
           <UniversalAdId idRegistry="Ad-ID" >8465</UniversalAdId>
         </Creative>
